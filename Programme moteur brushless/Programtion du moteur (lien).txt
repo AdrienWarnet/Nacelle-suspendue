@@ -1,0 +1,19 @@
+﻿Bibliotheque ESC :
+https://www.robotshop.com/blog/en/rc-speed-controller-esc-arduino-library-20470
+
+ESC Programing :
+http://www.instructables.com/id/ESC-Programming-on-Arduino-Hobbyking-ESC/
+
+https://dronesandrovs.wordpress.com/2012/11/24/how-to-control-a-brushless-motor-esc-with-arduino/
+
+http://www.instructables.com/id/How-to-run-an-ESC-with-Arduino/
+
+ESC calibrage :
+https://www.firediy.fr/article/calibrer-ses-esc-avec-un-arduino-drone-ch-3
+
+
+
+autre info : 
+http://blog.ianlee.info/2011/08/controlling-brushless-motor-with-netmf.html
+
+http://www.robot-maker.com/forum/topic/6233-controler-variateur-de-vitesse-moteur-avec-arduino/
